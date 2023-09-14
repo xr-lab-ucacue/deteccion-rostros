@@ -1,0 +1,28 @@
+# Ignora archivos generados por el sistema
+__pycache__/
+*.pyc
+
+# Ignora archivos generados por el entorno virtual (si usas uno)
+venv/
+env/
+*.env
+
+# Ignora archivos de registro
+*.log
+
+# Ignora archivos de configuración (si es necesario)
+config.ini
+settings.py
+
+# Ignora archivos generados por herramientas de construcción
+dist/
+build/
+*.egg-info/
+
+# Ignora archivos generados por IDEs o editores de texto
+.idea/
+.vscode/
+
+# Ignora archivos de dependencias y carpetas de entornos de desarrollo
+node_modules/
+__pycache__/  # Añade esto si usas Jupyter Notebooks
