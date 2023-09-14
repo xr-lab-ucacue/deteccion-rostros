@@ -26,19 +26,3 @@ build/
 # Ignora archivos de dependencias y carpetas de entornos de desarrollo
 node_modules/
 __pycache__/  # Añade esto si usas Jupyter Notebooks
-
-
-# Ignora archivos y carpetas generados por Angular CLI
-node_modules/
-dist/
-e2e/ 
-
-# Ignora archivos de configuración
-*.js.map
-*.js
-
-# Ignora archivos de respaldo
-*.swp
-
-# Ignora archivos de registro
-*.log
